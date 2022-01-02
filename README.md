@@ -1,4 +1,4 @@
-# Super Dooper Ship Scooer
+# Super Dooper Ship Scooter
 Speedy Ship mod for Anno 1800
 
 Adds the Super Dooper Shippy Scooter item card to the game.
