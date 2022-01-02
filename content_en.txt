@@ -1,0 +1,6 @@
+Adds the Super Dooper Shippy Scooter item card to the game.
+
++700 Ship speed, however it costs 100m to buy.
+
+Item is Legendary.
+

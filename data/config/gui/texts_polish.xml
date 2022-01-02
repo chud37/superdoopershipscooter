@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>2023715137</GUID>
+      <Text>Super Dooper Shippy Scooter</Text>
+    </Text>
+    <Text>
+      <GUID>2023715138</GUID>
+      <Text>Faster than a speeding bullet.  It'll cost you, though.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
